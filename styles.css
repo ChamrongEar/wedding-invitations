@@ -177,7 +177,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; 
-    min-height: 130vh; 
+    min-height: 120vh; 
     color: #333;
     overflow: hidden;
     width: 100%;
@@ -201,10 +201,6 @@ body {
     font-size: 16px;
     margin-bottom: 30px;
   }
-  .nothing{
-    width: auto;
-    height: 20px;
-  }
   .container1 ul {
     list-style-type: none;
     text-align: center;
@@ -212,12 +208,14 @@ body {
     padding: 0;
   }
   .container1 ul li {
+    background-color: rgba(29, 29, 29, 0.4);
     display: inline-block;
     width: 350px;
     height: 420px;
     margin: 3px;
     padding: 0;
     overflow: hidden;
+    border-radius: 2%;
   }
   .pic1 {
     border-radius: 2%;
