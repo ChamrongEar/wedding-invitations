@@ -16,7 +16,7 @@ body {
     border: none;
     border-radius: 5px;
     font-size: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     cursor: pointer;
     z-index: 1000;
     transition: opacity 0.3s ease;
@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; 
-    min-height: 95vh; 
+    min-height: 90vh; 
     color: #333;
     overflow: hidden;
     width: 100%;
@@ -67,7 +67,7 @@ body {
     margin-bottom: 10px;
   }
   .together {
-    margin-top: 30vh;
+    margin-top: 27vh;
     font-family: 'Khmer OS Metalchrieng', Arial, sans-serif;
     font-size: 30px;
     font-weight: bold;
@@ -91,7 +91,7 @@ body {
   .date {
     font-size: 16px;
     font-weight: bold;
-    margin-top: 30vh;
+    margin-top: 27vh;
   }
   .invitation {
     text-align: center;
@@ -105,8 +105,8 @@ body {
     font-family: 'Khmer OS Moulpali', Arial, sans-serif;
     font-size: 27px;
     color: #ff69b4;
-    margin-top: 0;
-    margin-bottom: 10px;
+    /* margin-top: 0; */
+    /* margin-bottom: 10px; */
   }
   
   .sub-title {
@@ -153,7 +153,7 @@ body {
   }
 
   .heart {
-    font-size: 25px;
+    font-size: 30px;
     margin: 0 10px;
     font-weight: bold;
     color: #ff69b4;
