@@ -33,7 +33,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center; 
-    min-height: 90vh; 
+    min-height: 85vh; 
     color: #333;
     overflow: hidden;
     width: 100%;
@@ -41,7 +41,7 @@ body {
     float: left;
   }
   .background1 {
-    background-image: url('images/pic6.jpeg'); /* Replace with your image path */
+    background-image: url('images/pic10.jpeg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -237,7 +237,7 @@ body {
 
   } */
   .background {
-    background-image: url('images/pic6.jpeg'); /* Replace with your image path */
+    background-image: url('images/pic15.jpeg'); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     width: 100%;
